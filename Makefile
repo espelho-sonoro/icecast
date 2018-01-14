@@ -24,4 +24,4 @@ run:
 		${APP}
 
 push:
-	heroku container:push ${APP}
+	heroku container:push web
